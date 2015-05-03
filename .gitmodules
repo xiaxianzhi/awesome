@@ -1,3 +1,6 @@
 [submodule "awesome-react"]
 	path = awesome-react
 	url = https://github.com/enaqx/awesome-react.git
+[submodule "react-native-guide"]
+	path = react-native-guide
+	url = https://github.com/ele828/react-native-guide.git
